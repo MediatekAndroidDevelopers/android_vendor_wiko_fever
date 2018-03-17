@@ -10,7 +10,7 @@ service msensord /vendor/bin/msensord
     group system
     oneshot
 
-service mxg2320d /vendor/bin/mxg2320d
+service akmd09911 /vendor/bin/akmd09911
     class main
     user system
     group system
